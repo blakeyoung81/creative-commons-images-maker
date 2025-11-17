@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Downloaded images (too large for git)
+downloaded_images/
+anemia_images/
+neurology_images/
+renal_images/
+pharmacology_images/
+
+# Logs
+*.log
+download_log.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Workspace files
+*.code-workspace
+
